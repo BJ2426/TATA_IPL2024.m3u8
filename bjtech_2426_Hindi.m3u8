@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=NO,AUTOSELECT=YES,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_2.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=YES,AUTOSELECT=NO,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_3.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=NO,AUTOSELECT=NO,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_4.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Telugu",LANGUAGE="tel",DEFAULT=NO,AUTOSELECT=NO,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Kannada",LANGUAGE="kan",DEFAULT=NO,AUTOSELECT=NO,URI="https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master_6.m3u8"
+
